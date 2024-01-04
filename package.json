@@ -1,13 +1,13 @@
 {
-	"name": "thememirror",
-	"version": "2.0.1",
+	"name": "thememirror-plus",
+	"version": "0.0.1",
 	"description": "Beautiful themes for CodeMirror",
 	"license": "MIT",
-	"repository": "vadimdemedes/thememirror",
+	"repository": "satansdeer/thememirror",
 	"author": {
-		"name": "vdemedes",
-		"email": "vadimdemedes@hey.com",
-		"url": "https://vadimdemedes.com"
+		"name": "satansdeer",
+		"email": "satansdeer@gmail.com",
+		"url": "https://maksimivanov.com"
 	},
 	"type": "module",
 	"exports": "./dist/index.js",
