@@ -58,6 +58,8 @@ const styles = [
 export const rosePineDawn = {
 	theme: createTheme({
 		variant: 'light',
+		settings,
+		styles
 	}),
 	settings,
 	styles,
