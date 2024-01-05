@@ -79,6 +79,7 @@ export const solarizedLight = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

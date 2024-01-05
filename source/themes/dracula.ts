@@ -54,6 +54,7 @@ export const dracula = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

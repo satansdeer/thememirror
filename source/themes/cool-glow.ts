@@ -67,6 +67,7 @@ export const coolGlow = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

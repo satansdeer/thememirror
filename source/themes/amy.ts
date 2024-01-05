@@ -89,6 +89,7 @@ export const amy = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

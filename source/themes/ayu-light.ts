@@ -81,6 +81,7 @@ export const ayuLight = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

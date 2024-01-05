@@ -57,6 +57,7 @@ export const tomorrow = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

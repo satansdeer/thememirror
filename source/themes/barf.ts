@@ -63,6 +63,7 @@ export const barf = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

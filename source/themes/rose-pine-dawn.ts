@@ -61,6 +61,7 @@ export const rosePineDawn = {
 		settings,
 		styles
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

@@ -49,6 +49,7 @@ export const clouds = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

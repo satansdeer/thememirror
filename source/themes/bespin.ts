@@ -57,6 +57,7 @@ export const bespin = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

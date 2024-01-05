@@ -69,6 +69,7 @@ export const birdsOfParadise = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

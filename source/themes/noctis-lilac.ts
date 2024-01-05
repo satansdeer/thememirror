@@ -82,6 +82,7 @@ export const noctisLilac = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

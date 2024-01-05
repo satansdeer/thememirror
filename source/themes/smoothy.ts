@@ -85,6 +85,7 @@ export const smoothy = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };

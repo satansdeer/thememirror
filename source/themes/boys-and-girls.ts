@@ -42,6 +42,7 @@ export const boysAndGirls = {
 		settings,
 		styles,
 	}),
+	variant: 'dark',
 	settings,
 	styles,
 };

@@ -47,6 +47,7 @@ export const espresso = {
 		settings,
 		styles,
 	}),
+	variant: 'light',
 	settings,
 	styles,
 };
